@@ -47,7 +47,7 @@ if(type==="truyen"){
 text = `
 <h2>Truyện Ngắn</h2>
 
-<h3>Bàn cắm hoa của lớp 12A3</h3>
+<h3>Cắm hoa trên sắc, hoa nở trong tim</h3>
 
 <p>
 Sáng 10/11, sân trường đông nghịt. Các lớp chen chúc chuẩn bị cho hội thi cắm hoa mừng Ngày Nhà giáo Việt Nam.
