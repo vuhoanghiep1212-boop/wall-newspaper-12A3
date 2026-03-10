@@ -17,7 +17,7 @@ text = `
 <h2>Lời Ngỏ</h2>
 
 <p style="text-align:center;font-style:italic;">
-Sông sâu phải bắc cầu kiều<br>
+Sang sông phải bắc cầu kiều<br>
 Muốn con hay chữ phải yêu lấy thầy.
 </p>
 
